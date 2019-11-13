@@ -3,10 +3,10 @@
   <channel>
     <title>Richard H. Adams</title>
     <description>Computational &amp; Evolutionary Biology</description>
-    <link>http://localhost:4000/jekyll-uno/</link>
-    <atom:link href="http://localhost:4000/jekyll-uno/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 13 Nov 2019 11:57:28 -0500</pubDate>
-    <lastBuildDate>Wed, 13 Nov 2019 11:57:28 -0500</lastBuildDate>
+    <link>http://localhost:4000/Research/</link>
+    <atom:link href="http://localhost:4000/Research/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 13 Nov 2019 13:14:31 -0500</pubDate>
+    <lastBuildDate>Wed, 13 Nov 2019 13:14:31 -0500</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -33,8 +33,8 @@
 &lt;p&gt;Stay tuned for more!&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 Nov 2019 10:04:23 -0500</pubDate>
-        <link>http://localhost:4000/jekyll-uno/2019/research3/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-uno/2019/research3/</guid>
+        <link>http://localhost:4000/Research/2019/research3/</link>
+        <guid isPermaLink="true">http://localhost:4000/Research/2019/research3/</guid>
         
         
         <category>jekyll</category>
@@ -67,8 +67,8 @@
 &lt;p&gt;Probabilistic models of character trait evolution have become invaluable tools across many fields of evolutionary biology. We have initiated several projects aimed at developing new approaches for studying the evolution of continuous character traits across deep evolutionary time. Stay tuned!&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 Nov 2019 10:04:23 -0500</pubDate>
-        <link>http://localhost:4000/jekyll-uno/2019/research2/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-uno/2019/research2/</guid>
+        <link>http://localhost:4000/Research/2019/research2/</link>
+        <guid isPermaLink="true">http://localhost:4000/Research/2019/research2/</guid>
         
         
         <category>jekyll</category>
@@ -137,8 +137,8 @@
 &lt;hr /&gt;
 </description>
         <pubDate>Fri, 08 Nov 2019 10:04:23 -0500</pubDate>
-        <link>http://localhost:4000/jekyll-uno/2019/research1/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-uno/2019/research1/</guid>
+        <link>http://localhost:4000/Research/2019/research1/</link>
+        <guid isPermaLink="true">http://localhost:4000/Research/2019/research1/</guid>
         
         
         <category>jekyll</category>
@@ -266,8 +266,8 @@ Reyes-Velasco J., D.C. Card, A.L. Andrew, K.J. Shaney, &lt;strong&gt;Adams, R.H.
 
 </description>
         <pubDate>Fri, 08 Nov 2019 10:04:23 -0500</pubDate>
-        <link>http://localhost:4000/jekyll-uno/2019/publications/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-uno/2019/publications/</guid>
+        <link>http://localhost:4000/Research/2019/publications/</link>
+        <guid isPermaLink="true">http://localhost:4000/Research/2019/publications/</guid>
         
         
         <category>jekyll</category>
@@ -330,8 +330,8 @@ Email: adamsr@fau.edu&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 08 Nov 2019 10:04:23 -0500</pubDate>
-        <link>http://localhost:4000/jekyll-uno/2019/links/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-uno/2019/links/</guid>
+        <link>http://localhost:4000/Research/2019/links/</link>
+        <guid isPermaLink="true">http://localhost:4000/Research/2019/links/</guid>
         
         
         <category>jekyll</category>
@@ -340,14 +340,16 @@ Email: adamsr@fau.edu&lt;/p&gt;
     
       <item>
         <title>Collaborators &amp; Links</title>
-        <description>&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;br /&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;images/Trees4.jpg&quot; alt=&quot;image tooltip here&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Collaborators&lt;/strong&gt;&lt;br /&gt;
 &lt;a href=&quot;https://www.castoelaboratory.org&quot;&gt;Castoe Lab @ The University of Texas at Arlington&lt;/a&gt; &lt;br /&gt;
 &lt;a href=&quot;http://degiorgiogroup.fau.edu&quot;&gt;DeGiorgio Group @ Florida Atlantic University&lt;/a&gt; &lt;br /&gt;
 &lt;a href=&quot;http://coleoguy.github.io&quot;&gt;Blackmon Lab @ Texas A&amp;amp;M University&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 Nov 2019 10:04:23 -0500</pubDate>
-        <link>http://localhost:4000/jekyll-uno/2019/collab/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-uno/2019/collab/</guid>
+        <link>http://localhost:4000/Research/2019/collab/</link>
+        <guid isPermaLink="true">http://localhost:4000/Research/2019/collab/</guid>
         
         
         <category>jekyll</category>
@@ -363,8 +365,8 @@ Email: adamsr@fau.edu&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;images/Image2.JPG&quot; alt=&quot;image tooltip here&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 08 Nov 2019 10:04:23 -0500</pubDate>
-        <link>http://localhost:4000/jekyll-uno/2019/about/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-uno/2019/about/</guid>
+        <link>http://localhost:4000/Research/2019/about/</link>
+        <guid isPermaLink="true">http://localhost:4000/Research/2019/about/</guid>
         
         
         <category>jekyll</category>
@@ -390,8 +392,8 @@ Email: adamsr@fau.edu&lt;/p&gt;
 
 </description>
         <pubDate>Fri, 08 Jan 2016 10:04:23 -0500</pubDate>
-        <link>http://localhost:4000/jekyll-uno/2016/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://localhost:4000/jekyll-uno/2016/welcome-to-jekyll/</guid>
+        <link>http://localhost:4000/Research/2016/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/Research/2016/welcome-to-jekyll/</guid>
         
         <category>jekyll</category>
         
