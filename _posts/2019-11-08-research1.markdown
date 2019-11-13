@@ -9,10 +9,6 @@ categories: [jekyll]
 
 | Next-generation sequencing technology has revolutionized the fields of phylogenetics, populations genetics, and evolutionary biology in general. With this deluge of data, researchers are often faced with a "crossroads" between the need to optimize statistical accuracy and the need to analyze such massive datasets within a reasonably efficient time frame. Thus, in the age of Big Data, the accuracy and efficiency of evolutionary analyses are often at odds with one another, and researchers must often sacrifice some degree of accuracy in order to tractably analyse huge datasets.  Accordingly, much of my research program is centered around this crossroad. Check out the rest of this page for several examples of our work in phylogenomics.
 
-|Image: The bluesman, the Devil, and a deal at the crossroads
- *In the delta of the Mississippi River, where Robert Johnson was born, they said that if an aspiring bluesman waited by the side of a deserted country crossroads in the dark of a moonless night, then Satan himself might come and tune his guitar, sealing a pact for the bluesman's soul.* -Stephen Davis's Hammer of the Gods.|
-
-
 
 
 ------------------------------------------------------------------------------------------------------
