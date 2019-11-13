@@ -1,0 +1,32 @@
+---
+title:  "Software"
+date:   2019-11-08 15:04:23
+categories: [jekyll]
+---
+
+![image tooltip here](images/Waterfall1.JPG)
+
+[GitHub](https://github.com/radamsRHA )  
+[ResearchGate](https://www.researchgate.net/profile/Richard_Adams34)  
+[Twitter](https://twitter.com/richadams6)  
+Email: adamsr@fau.edu
+
+
+------------------------------------------------------------------------------------------------------
+
+__Software & Databases__
+
+
+| [pSTD](https://github.com/radamsRHA/PSTDistanceR): Probabilistic distances between species tree models  
+pSTD is used to compute phylogenetic distances under the multispecies coalescent model for species trees and reticulating networks. |
+
+| [GppFst](https://github.com/radamsRHA/GppFst) Genomic posterior predictive simulations of Fst and Dxy. 
+ Gppfst takes as input a joint posterior distribution of population demographic parameters for two populations (effective population sizes, divergence times, etc). GppFst uses this posterior to generate null distributions of population statistics (i.e., Fst, Dxy) that can be used to investigate genomic evidence of selection and other processes.  |
+
+| [ThetaMater](https://github.com/radamsRHA/ThetaMater): Bayesian estimation of the population size parameter   
+ThetaMater employs an infinite-sites likelihood function to estimate the effective population size parameter from genomic data. |
+
+| [Amphibian Karyotype Database](https://evobir.shinyapps.io/AmphibianDB/): Database for amphibian karyotypes. 
+
+
+

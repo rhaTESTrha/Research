@@ -1,0 +1,36 @@
+---
+title:  "Computational Phylogenetics & Molecular Evolution"
+date:   2019-11-08 15:04:23
+categories: [jekyll]
+---
+
+------------------------------------------------------------------------------------------------------
+![image tooltip here](images/Crossroad2.pdf)![image tooltip here](images/CrossRoads.jpg)
+
+| Next-generation sequencing technology has revolutionized the fields of phylogenetics, populations genetics, and evolutionary biology in general. With this deluge of data, researchers are often faced with a "crossroads" between the need to optimize statistical accuracy and the need to analyze such massive datasets within a reasonably efficient time frame. Thus, in the age of Big Data, the accuracy and efficiency of evolutionary analyses are often at odds with one another, and researchers must often sacrifice some degree of accuracy in order to tractably analyse huge datasets.  Accordingly, much of my research program is centered around this crossroad. Check out the rest of this page for several examples of our work in phylogenomics.
+
+|Image: The bluesman, the Devil, and a deal at the crossroads
+ *In the delta of the Mississippi River, where Robert Johnson was born, they said that if an aspiring bluesman waited by the side of a deserted country crossroads in the dark of a moonless night, then Satan himself might come and tune his guitar, sealing a pact for the bluesman's soul.* -Stephen Davis's Hammer of the Gods.|
+
+
+
+
+------------------------------------------------------------------------------------------------------
+![image tooltip here](images/Box1.pdf)![image tooltip here](images/Featured1.pdf)
+
+| We are developing new analytical tools for deriving mathematic distances between phylogenetic tree structures under stochastic models of evolution. Check out our recent [study](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz031/5488962) in which we developed a new approach for computing probabilistic distances between species trees.|
+
+------------------------------------------------------------------------------------------------------
+
+![image tooltip here](images/Box23.pdf)![image tooltip here](images/Phylo2.pdf)
+
+| We are interested in developing new bioinformatics tools for more accurate species tree inferences from whole genome data. See our recent publications in [Molecular Phylogenetics & Evolution](https://www.sciencedirect.com/science/article/pii/S1055790318305153?via%3Dihub) and [MethodsX](https://www.sciencedirect.com/science/article/pii/S2215016119302493)|
+
+------------------------------------------------------------------------------------------------------
+
+
+![image tooltip here](images/Box3.pdf)![image tooltip here](images/Phylo3.pdf)
+
+| Phylogenetic inferences requires specification of a statistical model of evolution. These models make a number of assumptions that may (or may not) be appropriate for empirical datasets sampled from natural species. We have initiated a number of studies that target these questions. Check out our recent study in [Systematic Biology](https://academic.oup.com/sysbio/article/67/6/1076/4995179) that evaluates the impacts of selection on coalescent-based species tree and species delimitation methods|
+
+------------------------------------------------------------------------------------------------------
