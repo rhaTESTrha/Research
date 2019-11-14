@@ -5,13 +5,6 @@ categories: [jekyll]
 ---
 
 ------------------------------------------------------------------------------------------------------
-![image tooltip here](images/Crossroad2.pdf)![image tooltip here](images/CrossRoads.jpg)
-
-| Next-generation sequencing technology has revolutionized the fields of phylogenetics, populations genetics, and evolutionary biology in general. With this deluge of data, researchers are often faced with a "crossroads" between the need to optimize statistical accuracy and the need to analyze such massive datasets within a reasonably efficient time frame. Thus, in the age of Big Data, the accuracy and efficiency of evolutionary analyses are often at odds with one another, and researchers must often sacrifice some degree of accuracy in order to tractably analyse huge datasets.  Accordingly, much of my research program is centered around this crossroad. Check out the rest of this page for several examples of our work in phylogenomics.
-
-
-
-------------------------------------------------------------------------------------------------------
 ![image tooltip here](images/Box1.pdf)![image tooltip here](images/Featured1.pdf)
 
 | We are developing new analytical tools for deriving mathematic distances between phylogenetic tree structures under stochastic models of evolution. Check out our recent [study](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz031/5488962) in which we developed a new approach for computing probabilistic distances between species trees.|
