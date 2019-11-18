@@ -4,7 +4,18 @@ date:   2019-11-08 15:04:23
 categories: [jekyll]
 ---
 
+
+------------------------------------------------------------------------------------------------------
+
 ![image tooltip here](images/Trees4.jpg)
+
+[GitHub](https://github.com/radamsRHA )  
+[ResearchGate](https://www.researchgate.net/profile/Richard_Adams34)  
+[Twitter](https://twitter.com/richadams6)  
+Email: adamsr@fau.edu
+
+------------------------------------------------------------------------------------------------------
+
 
 __Collaborators__  
 [Castoe Lab @ The University of Texas at Arlington](https://www.castoelaboratory.org)   
