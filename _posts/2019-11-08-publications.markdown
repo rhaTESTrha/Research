@@ -6,7 +6,7 @@ categories: [jekyll]
 
 
 
-* [Probabilistic species tree distances: implementing the multispecies coalescent to compare species trees within the same model-based framework used to estimate them. ](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz031/5488962)
+* [Probabilistic species tree distances: implementing the multispecies coalescent to compare species trees within the same model-based framework used to estimate them. ](https://academic.oup.com/sysbio/article/69/1/194/5488962)
 __Adams, R.H.__, and Castoe, T.A. 2020. ___Systematic Biology___. 
 [PDF](assets/SysBio_2020a.pdf)
 
