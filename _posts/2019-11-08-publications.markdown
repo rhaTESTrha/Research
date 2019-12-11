@@ -8,7 +8,7 @@ categories: [jekyll]
 
 * [Probabilistic species tree distances: implementing the multispecies coalescent to compare species trees within the same model-based framework used to estimate them. ](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz031/5488962)
 __Adams, R.H.__, and Castoe, T.A. 2020. ___Systematic Biology___. 
-[PDF](assets/AdamsCastoeSysBio2019.pdf)
+[PDF](assets/SysBio_2020a.pdf)
 
 * [Recent advances in the inference of gene flow from population genomic data. ](https://link.springer.com/article/10.1007/s40610-019-00120-0)
 __Adams, R.H.__, Schield, D.R., and Castoe, T.A. 2019. ___Current Molecular Biology Reports___. 
