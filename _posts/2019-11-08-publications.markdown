@@ -76,7 +76,7 @@ __Adams, R.H.__, D.R. Schield, D.C. Card, H. Blackmon, and T.A. Castoe. 2017.  _
 [PDF](assets//Gppfst2017.pdf)
 
 
-* [Microsatellite landscape evolutionary dynamics across 450 million years of vertebrate genome evolution.](ahttps://www.nrcresearchpress.com/doi/10.1139/gen-2015-0124?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%3dwww.ncbi.nlm.nih.gov#.XcwqdC2ZNkU)
+* [Microsatellite landscape evolutionary dynamics across 450 million years of vertebrate genome evolution.](https://www.nrcresearchpress.com/doi/full/10.1139/gen-2015-0124#.Xlklli2ZOEk)
 __Adams, R.H.__, H.G. Blackman, J. Reyes-Velasco, D.R. Schield, D.C. Card, A.L. Andrew, N. Waynewood, and T.A. Castoe. 2016.  ___Genome___. __Received the Editor’s Choice Award for the journal Genome__.
 [PDF](assets//Adams2016Genome.pdf)
 
