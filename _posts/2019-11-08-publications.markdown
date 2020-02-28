@@ -10,7 +10,7 @@ categories: [jekyll]
 [PDF](assets/SysBio_2020a.pdf)
 
 * [Snake Recombination Landscapes Are Concentrated in Functional Regions despite PRDM9](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa003/5700722). Schield, D.R, G.I.M. Pasquesi, B.W. Perry, __Adams, R.H.__, Z. L. Nikolakis, R.W. Orton, J.M. Meik, S.P. Mackessy, and T.A. Castoe 2020. ___Molecular Biology and Evolution___. 
-[PDF](assets/SnakeRecomb_MBE_2020)
+[PDF](assets/SnakeRecomb_MBE_2020.pdf)
 
 * [Recent advances in the inference of gene flow from population genomic data. ](https://link.springer.com/article/10.1007/s40610-019-00120-0)
 __Adams, R.H.__, Schield, D.R., and Castoe, T.A. 2019. ___Current Molecular Biology Reports___. 
