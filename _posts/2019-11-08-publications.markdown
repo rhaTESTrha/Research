@@ -6,7 +6,7 @@ categories: [jekyll]
 
 
 
-* [Probabilistic species tree distances: implementing the multispecies coalescent to compare species trees within the same model-based framework used to estimate them. ](https://academic.oup.com/sysbio/article/69/1/194/5488962). __Adams, R.H.__, and Castoe, T.A. 2020. ___Molecular Biology and Evolution___. 
+* [Probabilistic species tree distances: implementing the multispecies coalescent to compare species trees within the same model-based framework used to estimate them. ](https://academic.oup.com/sysbio/article/69/1/194/5488962). __Adams, R.H.__, and Castoe, T.A. 2020. ___Systematic Biology___. 
 [PDF](assets/SysBio_2020a.pdf)
 
 * [Snake Recombination Landscapes Are Concentrated in Functional Regions despite PRDM9](https://academic.oup.com/sysbio/article/69/1/194/5488962)
