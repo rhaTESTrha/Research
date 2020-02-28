@@ -9,7 +9,7 @@ categories: [jekyll]
 * [Probabilistic species tree distances: implementing the multispecies coalescent to compare species trees within the same model-based framework used to estimate them. ](https://academic.oup.com/sysbio/article/69/1/194/5488962)__Adams, R.H.__, and Castoe, T.A. 2020. ___Systematic Biology___
 [PDF](assets/SysBio_2020a.pdf)
 
-* [Genome-wide SNPs clarify lineage diversity confused by coloration in coralsnakes of the Micrurus diastema (Serpentes: Elapidae) species complex](https://www.sciencedirect.com/science/article/pii/S1055790320300427?via%3Dihub). Reyes-Velasco, J.*, __Adams, R.H.__*, S. Boissinot, C.L. Parkinson, J.A. Campbell, T.A. Castoe, and E.N. Smith.2020. ___Molecular Biology and Evolution___. [PDF](assets/AdamsReyesVelasco_2020.pdf) * co-first author
+* [Genome-wide SNPs clarify lineage diversity confused by coloration in coralsnakes of the Micrurus diastema (Serpentes: Elapidae) species complex](https://www.sciencedirect.com/science/article/pii/S1055790320300427?via%3Dihub). Reyes-Velasco, J.*, __Adams, R.H.__*, S. Boissinot, C.L. Parkinson, J.A. Campbell, T.A. Castoe, and E.N. Smith.2020. ___Molecular Biology and Evolution___.  [PDF] (assets/AdamsReyesVelasco_2020.pdf)  * co-first author
 
 
 * [Snake Recombination Landscapes Are Concentrated in Functional Regions despite PRDM9](https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa003/5700722). Schield, D.R, G.I.M. Pasquesi, B.W. Perry, __Adams, R.H.__, Z. L. Nikolakis, R.W. Orton, J.M. Meik, S.P. Mackessy, and T.A. Castoe 2020. ___Molecular Biology and Evolution___. 
