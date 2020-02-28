@@ -9,7 +9,7 @@ categories: [jekyll]
 * [Probabilistic species tree distances: implementing the multispecies coalescent to compare species trees within the same model-based framework used to estimate them. ](https://academic.oup.com/sysbio/article/69/1/194/5488962)__Adams, R.H.__, and Castoe, T.A. 2020. ___Systematic Biology___
 [PDF](assets/SysBio_2020a.pdf)
 
-* [Genome-wide SNPs clarify lineage diversity confused by coloration in coralsnakes of the Micrurus diastema (Serpentes: Elapidae) species complex](XXX). Reyes-Velasco, J.*, __Adams, R.H.__*, S. Boissinot, C.L. Parkinson, J.A. Campbell, T.A. Castoe, and E.N. Smith.2020. ___Molecular Biology and Evolution___. * co-first author
+* [Genome-wide SNPs clarify lineage diversity confused by coloration in coralsnakes of the Micrurus diastema (Serpentes: Elapidae) species complex](https://www.sciencedirect.com/science/article/pii/S1055790320300427?via%3Dihub). Reyes-Velasco, J.*, __Adams, R.H.__*, S. Boissinot, C.L. Parkinson, J.A. Campbell, T.A. Castoe, and E.N. Smith.2020. ___Molecular Biology and Evolution___. * co-first author
 [PDF](assets/XXX)
 
 
