@@ -9,7 +9,7 @@ categories: [jekyll]
 [GitHub](https://github.com/radamsRHA )  
 [ResearchGate](https://www.researchgate.net/profile/Richard_Adams34)  
 [Twitter](https://twitter.com/radamsrha)  
-Email: adamsr@fau.edu
+Email: radamsRHA@gmailcom
 
 
 ------------------------------------------------------------------------------------------------------
