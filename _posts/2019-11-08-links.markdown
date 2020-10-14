@@ -9,7 +9,7 @@ categories: [jekyll]
 [GitHub](https://github.com/radamsRHA )  
 [ResearchGate](https://www.researchgate.net/profile/Richard_Adams34)  
 Email: radamsRHA@gmail.com
-4
+5
 
 
 ------------------------------------------------------------------------------------------------------
@@ -17,20 +17,20 @@ Email: radamsRHA@gmail.com
 __Software & Databases__
 
 
-|[pSTD](https://github.com/radamsRHA/PSTDistanceR): Probabilistic distances between species tree models. pSTD is used to compute phylogenetic distances under the multispecies coalescent model for species trees and reticulating networks. |
+| [pSTD](https://github.com/radamsRHA/PSTDistanceR): Probabilistic distances between species tree models. pSTD is used to compute phylogenetic distances under the multispecies coalescent model for species trees and reticulating networks. |
 
 
-|[PhyloWGA](https://github.com/radamsRHA/PhyloWGA): phylogenetic analyses and interrogation of whole genome alignments. PhyloWHA is user-friendly R package for improving chromosome-scale phylogenetic analyses |
+| [PhyloWGA](https://github.com/radamsRHA/PhyloWGA): phylogenetic analyses and interrogation of whole genome alignments. PhyloWHA is user-friendly R package for improving chromosome-scale phylogenetic analyses |
 
 
-|[GppFst](https://github.com/radamsRHA/GppFst) Genomic posterior predictive simulations of Fst and Dxy. Gppfst takes as input a joint posterior distribution of population demographic parameters for two populations (effective population sizes, divergence times, etc). GppFst uses this posterior to generate null distributions of population statistics (i.e., Fst, Dxy) that can be used to investigate genomic evidence of selection and other processes.  |
+| [GppFst](https://github.com/radamsRHA/GppFst) Genomic posterior predictive simulations of Fst and Dxy. Gppfst takes as input a joint posterior distribution of population demographic parameters for two populations (effective population sizes, divergence times, etc). GppFst uses this posterior to generate null distributions of population statistics (i.e., Fst, Dxy) that can be used to investigate genomic evidence of selection and other processes.  |
  
  
 
-|[ThetaMater](https://github.com/radamsRHA/ThetaMater): Bayesian estimation of the population size parameter. ThetaMater employs an infinite-sites likelihood function to estimate the effective population size parameter from genomic data. |
+| [ThetaMater](https://github.com/radamsRHA/ThetaMater): Bayesian estimation of the population size parameter. ThetaMater employs an infinite-sites likelihood function to estimate the effective population size parameter from genomic data. |
 
 
-|[Amphibian Karyotype Database](https://evobir.shinyapps.io/AmphibianDB/): Database for amphibian karyotypes. | 
+| [Amphibian Karyotype Database](https://evobir.shinyapps.io/AmphibianDB/): Database for amphibian karyotypes. | 
 
 
 
