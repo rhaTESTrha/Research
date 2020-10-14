@@ -9,7 +9,6 @@ categories: [jekyll]
 [GitHub](https://github.com/radamsRHA )  
 [ResearchGate](https://www.researchgate.net/profile/Richard_Adams34)  
 Email: radamsRHA@gmail.com
-2
 
 
 ------------------------------------------------------------------------------------------------------
