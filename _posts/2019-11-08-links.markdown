@@ -23,7 +23,7 @@ pSTD is used to compute phylogenetic distances under the multispecies coalescent
 ------------------------------------------------------------------------------------------------------
 
 | [PhyloWGA](https://github.com/radamsRHA/PhyloWGA): phylogenetic analyses and interrogation of whole genome alignments  
-user-friendly R package for improving chromosome-scale phylogenetic analyses |
+PhyloWHA is user-friendly R package for improving chromosome-scale phylogenetic analyses |
 
 ------------------------------------------------------------------------------------------------------
 
