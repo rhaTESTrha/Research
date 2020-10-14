@@ -9,7 +9,7 @@ categories: [jekyll]
 
 | We are interested in developing efficient and effective frameworks for studying population genomic process. A large part of our research is focused on developing such frameworks using new bioinformatics tools and pipelines.|
 | Check out our R package, [GppFst](https://academic.oup.com/bioinformatics/article/33/9/1414/2736363) for conducting Bayesian posterior predictive simulations of population genetic statistics for inferring selection. We have also developed [ThetaMater](https://academic.oup.com/bioinformatics/article/34/6/1072/4670681) for fast estimation of effective population size from genomic data. Also, see our recent [overview](https://link.springer.com/article/10.1007/s40610-019-00120-0) of current methods for inferring introgression from population genomic data|
-| Working with collaborators, we have applied these tools to study population genomic processes in a variety of cool systems, including [buzztails](https://academic.oup.com/biolinnean/article/128/1/149/5523649) (i.e., rattlesnakes) and [central American Boa constrictors](https://academic.oup.com/gbe/article/11/11/3123/5603307?rss=1) |
+| Working with collaborators, we have applied these tools to study population genomic processes in a variety of cool systems, including [venomous coral snakes](https://www.sciencedirect.com/science/article/abs/pii/S1055790320300427?via%3Dihub), [buzztails](https://academic.oup.com/biolinnean/article/128/1/149/5523649) (i.e., rattlesnakes) and [central American Boa constrictors](https://academic.oup.com/gbe/article/11/11/3123/5603307?rss=1) |
 
 
 
