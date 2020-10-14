@@ -9,7 +9,7 @@ categories: [jekyll]
 * [Probabilistic species tree distances: implementing the multispecies coalescent to compare species trees within the same model-based framework used to estimate them. ](https://academic.oup.com/sysbio/article/69/1/194/5488962)__Adams, R.H.__, and Castoe, T.A. 2020. ___Systematic Biology___
 [PDF](assets/SysBio_2020a.pdf)
 
-* [PhyloWGA: chromosome-aware phylogenetic interrogation of whole genome alignments](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btaa884/5922815?redirectedFrom=fulltext)__Adams, R.H.__, Castoe, T.A., and M DeGiorgio. 2020. ___Bioinformatics___
+* [PhyloWGA: chromosome-aware phylogenetic interrogation of whole genome alignments](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btaa884/5922815?redirectedFrom=fulltext). __Adams, R.H.__, Castoe, T.A., and M DeGiorgio. 2020. ___Bioinformatics___
 [PDF](assets/PhyloWGA.pdf)
 
 * [Genome-wide SNPs clarify lineage diversity confused by coloration in coralsnakes of the Micrurus diastema (Serpentes: Elapidae) species complex](https://www.sciencedirect.com/science/article/pii/S1055790320300427?via%3Dihub). \*Reyes-Velasco, J., \*__Adams, R.H.__, S. Boissinot, C.L. Parkinson, J.A. Campbell, T.A. Castoe, and E.N. Smith. 2020. ___Molecular Phylogenetics and Evolution___.\*co-first author [PDF](assets/AdamsReyesVelasco_2020.pdf).
