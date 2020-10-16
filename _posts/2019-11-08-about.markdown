@@ -3,7 +3,7 @@ title:  "About"
 date:   2019-11-08 15:04:23
 categories: [jekyll]
 ---
-![image tooltip here](images/About3.JPG)
+![image tooltip here](images/About3.jpg)
 
 I am a postdoctoral fellow in the DeGiorgio group in the Department of Computer & Electrical Engineering and Computer Science at Florida Atlantic University. I conducted my Ph.D. work in the Castoelab lab at the University of Texas, Arlington. Currently, much of my research is focused on statistical method development in computational phylogenetics, population genetics, and evolutionary genomics (see Research). In general, my research seeks to synergize computational sciences and theoretical biology to develop new analytical frameworks and tools for studying fundamental questions in evolutionary biology using genome-scale data.
 
