@@ -24,6 +24,10 @@ __Software & Databases__
 
  | 
  [PhyloWGA](https://github.com/radamsRHA/PhyloWGA): phylogenetic analyses and interrogation of whole genome alignments. PhyloWHA is user-friendly R package for improving chromosome-scale phylogenetic analyses |
+ 
+ | 
+ [SpeciesTopoTestR](https://github.com/radamsRHA/SpeciesTopoTestR) Likelihood-based hypothesis tests of species topologies in R (submitted). |
+
 
  | 
  [GppFst](https://github.com/radamsRHA/GppFst) Genomic posterior predictive simulations of Fst and Dxy. Gppfst takes as input a joint posterior distribution of population demographic parameters for two populations (effective population sizes, divergence times, etc). GppFst uses this posterior to generate null distributions of population statistics (i.e., Fst, Dxy) that can be used to investigate genomic evidence of selection and other processes.  |
