@@ -5,7 +5,7 @@ categories: [jekyll]
 ---
 ![image tooltip here](images/About3.jpg)
 
-Big Data” are fundamentally shaping many aspects of our lives. Such large and complex data require new analytical frameworks and tools that carefully consider both accuracy and efficiency.
+"Big Data” are fundamentally shaping many aspects of our lives, requiring new tools that carefully consider both accuracy and efficiency when analyzing such large and complex data.
 
 I am a broadly trained data scientist currently working as a postdoc in the DeGiorgio group in the Department of Computer & Electrical Engineering and Computer Science at Florida Atlantic University. I conducted my Ph.D. work in the Castoelab lab at the University of Texas, Arlington, where I worked on bioinformatics and computational biology in a diversity of settings and projects. My primary interests can be summarized as an  intersection of computer science and quantitative evolutionary genomics. My excitement for statistics, probability, and data science underlie these pursuits that seek to synergize diverse fields and disciplines. In turn, a large part of my work is focused on developing new analytical tools, theory, and software for studying mathematical evolution, computational phylogenetics, and statistical genomics. 
 
