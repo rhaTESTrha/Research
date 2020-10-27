@@ -18,6 +18,9 @@ __Software & Databases__
 
  | 
  [pSTD](https://github.com/radamsRHA/PSTDistanceR): Probabilistic distances between species tree models. pSTD is used to compute phylogenetic distances under the multispecies coalescent model for species trees and reticulating networks. |
+ 
+ | 
+ [PRDATR](https://github.com/radamsRHA/PRDATR) (PRobabilistic Distances under models of Adaptive Trait evolution in R): An R program that computes the probabilistic distances between phylogenetic models of continuous trait evolution (submitted). |
 
  | 
  [PhyloWGA](https://github.com/radamsRHA/PhyloWGA): phylogenetic analyses and interrogation of whole genome alignments. PhyloWHA is user-friendly R package for improving chromosome-scale phylogenetic analyses |
