@@ -8,14 +8,14 @@ categories: [jekyll]
 ![image tooltip here](images/Box1.pdf)![image tooltip here](images/Featured1.pdf)
 
 | 
-We are developing new analytical tools for deriving mathematic distances between phylogenetic tree structures under stochastic models of evolution. Check out our recent [study](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz031/5488962) in which we developed a new approach for computing probabilistic distances between species trees.|
+We are developing new analytical tools for deriving mathematic distances between tree and graph structures under statistical models of evolution. Check out our recent [study](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz031/5488962) in which we developed a new approach for computing probabilistic distances between species trees.|
 
 ------------------------------------------------------------------------------------------------------
 
 ![image tooltip here](images/Box23.pdf)![image tooltip here](images/Phylo2.pdf)
 
 | 
-We are interested in developing new bioinformatics tools for more accurate species tree inferences and phylogenetic investigation of whole genome data. See our recent publications in [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btaa884/5922815?redirectedFrom=fulltext), [Molecular Phylogenetics & Evolution](https://www.sciencedirect.com/science/article/pii/S1055790318305153?via%3Dihub) and [MethodsX](https://www.sciencedirect.com/science/article/pii/S2215016119302493)|
+We are interested in developing new bioinformatics tools for more accurate species tree reconstrution and phylogenetic investigation of whole genome data. See our recent publications in [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btaa884/5922815?redirectedFrom=fulltext), [Molecular Phylogenetics & Evolution](https://www.sciencedirect.com/science/article/pii/S1055790318305153?via%3Dihub) and [MethodsX](https://www.sciencedirect.com/science/article/pii/S2215016119302493)|
 
 ------------------------------------------------------------------------------------------------------
 
