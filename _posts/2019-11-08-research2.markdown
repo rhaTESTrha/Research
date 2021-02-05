@@ -1,5 +1,5 @@
 ---
-title:  "Evolutionary Genomics & Comparative Methods"
+title:  "Data science in genomics"
 date:   2019-11-08 15:04:23
 categories: [jekyll]
 ---
