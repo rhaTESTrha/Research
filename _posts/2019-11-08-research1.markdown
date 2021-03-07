@@ -1,5 +1,5 @@
 ---
-title:  "Learning evolution from molecules and phylogenies"
+title:  "Learning from molecules and phylogenies"
 date:   2019-11-08 15:04:23
 categories: [jekyll]
 ---
