@@ -5,7 +5,7 @@ categories: [jekyll]
 ---
 
 ------------------------------------------------------------------------------------------------------
-![image tooltip here](images/Box6.pdf)![image tooltip here](images/PopGen.pdf)
+![image tooltip here](images/Box6.png)![image tooltip here](images/PopGen.pdf)
 
 | We are interested in developing efficient and effective frameworks for studying demography and ancestry from whole genomes. A large part of our research is focused on developing such frameworks using new bioinformatics tools and pipelines.|
 | Check out our R package, [GppFst](https://academic.oup.com/bioinformatics/article/33/9/1414/2736363) for conducting Bayesian posterior predictive simulations of population genetic statistics for classying outliers in the genome. We have also developed [ThetaMater](https://academic.oup.com/bioinformatics/article/34/6/1072/4670681) for fast estimation of effective population size from genomic data. Also, see our recent [overview](https://link.springer.com/article/10.1007/s40610-019-00120-0) of current methods for inferring introgression from population genomic data|
