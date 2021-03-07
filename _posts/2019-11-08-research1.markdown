@@ -5,7 +5,7 @@ categories: [jekyll]
 ---
 
 ------------------------------------------------------------------------------------------------------
-![image tooltip here](images/Box1.pdf)![image tooltip here](images/Featured1.pdf)
+![image tooltip here](images/Box1.png)![image tooltip here](images/Featured1.pdf)
 
 | 
 We are developing new analytical tools for deriving mathematic distances between tree and graph structures under statistical models of evolution. Check out our recent [study](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz031/5488962) in which we developed a new approach for computing probabilistic distances between species trees.|
