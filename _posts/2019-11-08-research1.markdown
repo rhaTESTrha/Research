@@ -20,7 +20,7 @@ We are interested in developing new bioinformatics tools for more accurate speci
 ------------------------------------------------------------------------------------------------------
 
 
-![image tooltip here](images/Box3.pdf)![image tooltip here](images/Phylo3.pdf)
+![image tooltip here](images/Phylo3.pdf)
 
 | 
 Phylogenetic inferences requires specification of a statistical model of evolution. These models make a number of assumptions that may (or may not) be appropriate for empirical datasets sampled from species in nature. We have initiated a number of studies that target these questions. Check out our recent study in [Systematic Biology](https://academic.oup.com/sysbio/article/67/6/1076/4995179) that evaluates the impacts of selection on coalescent-based species tree and species delimitation methods|
