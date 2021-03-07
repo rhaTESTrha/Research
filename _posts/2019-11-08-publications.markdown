@@ -4,7 +4,7 @@ date:   2019-11-08 15:04:23
 categories: [jekyll]
 ---
 
-* [Of traits and trees: probabilistic distances for dissecting the interplay among phylogeny, model, and data](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syab009/6136195?searchresult=1)__Adams, R.H.__, Blackmon, H., and M DeGiorgio. ___Systematic Biology___
+* [Of traits and trees: probabilistic distances for dissecting the interplay among phylogeny, model, and data. ](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syab009/6136195?searchresult=1)__Adams, R.H.__, Blackmon, H., and M DeGiorgio. ___Systematic Biology___
 [PDF](assets/TreeTraits_2021.pdf)
 
 * [Probabilistic species tree distances: implementing the multispecies coalescent to compare species trees within the same model-based framework used to estimate them. ](https://academic.oup.com/sysbio/article/69/1/194/5488962)__Adams, R.H.__, and Castoe, T.A. 2020. ___Systematic Biology___
