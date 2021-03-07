@@ -14,6 +14,6 @@ categories: [jekyll]
 
 ------------------------------------------------------------------------------------------------------
 
-![image tooltip here](images/Box5.png)
+![image tooltip here](images/Box5.png)![image tooltip here](images/GG1.png)
 
 Probabilistic models have become invaluable tools across many fields of evolutionary biology and data sciences more broadly. We have initiated several projects aimed at developing new algorithms for studying the evolution of continuous variables and traits across deep evolutionary time. Stay tuned!
