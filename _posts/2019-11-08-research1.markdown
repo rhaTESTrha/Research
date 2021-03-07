@@ -8,14 +8,14 @@ categories: [jekyll]
 ![image tooltip here](images/Box1.png)![image tooltip here](images/Featured1.png)
 
 | 
-We are developing new analytical tools for deriving mathematic distances between tree and graph structures under statistical models of evolution. Check out our recent [study](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz031/5488962) in which we developed a new approach for computing probabilistic distances between species trees.|
+We are developing new analytical tools for deriving mathematic distances between tree and graph structures under statistical models. Check out our recent [study](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syz031/5488962) in which we developed a new approach for computing probabilistic distances between trees.|
 
 ------------------------------------------------------------------------------------------------------
 
 ![image tooltip here](images/Box23.png)![image tooltip here](images/Phylo2.png)
 
 | 
-We are interested in developing new bioinformatics tools for more accurate species tree reconstrution and phylogenetic investigation of whole genome data. See our recent publications in [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btaa884/5922815?redirectedFrom=fulltext), [Molecular Phylogenetics & Evolution](https://www.sciencedirect.com/science/article/pii/S1055790318305153?via%3Dihub) and [MethodsX](https://www.sciencedirect.com/science/article/pii/S2215016119302493)|
+We are interested in developing new bioinformatics tools for more accurate statistical inference of whole genome data. See our recent publications in [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btaa884/5922815?redirectedFrom=fulltext), [Molecular Phylogenetics & Evolution](https://www.sciencedirect.com/science/article/pii/S1055790318305153?via%3Dihub) and [MethodsX](https://www.sciencedirect.com/science/article/pii/S2215016119302493)|
 
 ------------------------------------------------------------------------------------------------------
 
@@ -23,6 +23,6 @@ We are interested in developing new bioinformatics tools for more accurate speci
 ![image tooltip here](images/Phylo3.png)
 
 | 
-Phylogenetic inferences requires specification of a statistical model of evolution. These models make a number of assumptions that may (or may not) be appropriate for empirical datasets sampled from species in nature. We have initiated a number of studies that target these questions. Check out our recent study in [Systematic Biology](https://academic.oup.com/sysbio/article/67/6/1076/4995179) that evaluates the impacts of selection on coalescent-based species tree and species delimitation methods|
+Phylogenetic inferences requires specification of a statistical model describing change in variables (i.e., traits) over time. These models make a number of assumptions that may (or may not) be appropriate for empirical datasets sampled real data. We have initiated a number of studies that target these questions. Check out our recent study in [Systematic Biology](https://academic.oup.com/sysbio/article/67/6/1076/4995179) that evaluates the impacts of Darwinian adaptation|
 
 ------------------------------------------------------------------------------------------------------
