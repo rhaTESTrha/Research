@@ -7,7 +7,7 @@ categories: [jekyll]
 ------------------------------------------------------------------------------------------------------
 ![image tooltip here](images/Box45.png)![image tooltip here](images/EG1.png)
 
-| We are interested in developing tools and algorithms for studying genomes across many time scales. Additionally, check out our [study](https://www.nrcresearchpress.com/doi/10.1139/gen-2015-0124?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dwww.ncbi.nlm.nih.gov&#.Xcwlay2ZNkU) on microsatellite evolution across 450 million years of vertebrate genome evolution. |
+| We are interested in developing tools and algorithms for studying "Big Data" (typically in biology)  across many time scales. Additionally, check out our [study](https://www.nrcresearchpress.com/doi/10.1139/gen-2015-0124?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub%3Dwww.ncbi.nlm.nih.gov&#.Xcwlay2ZNkU) on microsatellite evolution across 450 million years of vertebrate genome evolution. |
 | Also, check out our collaborative work on [venom evolution](https://academic.oup.com/mbe/article/32/1/173/2925580), the Garter snake [genome](https://academic.oup.com/gbe/article/10/8/2110/5061318), the Prairie rattlesnake [genome](https://genome.cshlp.org/content/early/2019/03/15/gr.240952.118.abstract), and the [evolution of transposable elements across vertebrate genomes](https://www.nature.com/articles/s41467-018-05279-1).|
 ||
 
