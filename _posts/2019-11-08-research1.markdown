@@ -12,7 +12,7 @@ We are developing new analytical tools for deriving mathematic distances between
 
 ------------------------------------------------------------------------------------------------------
 
-![image tooltip here](images/Box23.png)![image tooltip here](images/Phylo2.pdf)
+![image tooltip here](images/Box23.png)![image tooltip here](images/Phylo2.png)
 
 | 
 We are interested in developing new bioinformatics tools for more accurate species tree reconstrution and phylogenetic investigation of whole genome data. See our recent publications in [Bioinformatics](https://academic.oup.com/bioinformatics/advance-article-abstract/doi/10.1093/bioinformatics/btaa884/5922815?redirectedFrom=fulltext), [Molecular Phylogenetics & Evolution](https://www.sciencedirect.com/science/article/pii/S1055790318305153?via%3Dihub) and [MethodsX](https://www.sciencedirect.com/science/article/pii/S2215016119302493)|
