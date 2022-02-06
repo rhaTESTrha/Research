@@ -4,7 +4,7 @@ date:   2019-11-08 15:04:23
 categories: [jekyll]
 ---
 
-* [Of traits and trees: probabilistic distances for dissecting the interplay among phylogeny, model, and data. ](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syab009/6136195?searchresult=1)__Adams, R.H.__, Blackmon, H., and M DeGiorgio. ___Systematic Biology___
+* [Fifty million years of beetle evolution along the Antarctic Polar Front.](https://academic.oup.com/sysbio/advance-article/doi/10.1093/sysbio/syab009/6136195?searchresult=1)H Baird, S Shin, R Oberprieler, M Hullé, P Vernon, K Moon,  __Adams, R.H.__, D McKenna, S Chown. ___Proceedings of the National Academy of Sciences___
 [PDF](assets/TraitsAndTrees.pdf)
 
 
